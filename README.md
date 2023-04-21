@@ -1,5 +1,4 @@
 # AboutMe
-AboutMe
 
 👋 Hi, I'm Dishank, a competitive programmer and front-end developer with a passion for building fast, responsive, and user-friendly web applications.
 
